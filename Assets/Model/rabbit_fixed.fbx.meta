@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: e3aef8b55c71bf840a9e8ddf06c218a0
+timeCreated: 1527355916
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_L
+    100002: Arm_L_end
+    100004: Arm_L_end_end
+    100006: Arm_R
+    100008: Arm_R_end
+    100010: Arm_R_end_end
+    100012: Armature
+    100014: Body
+    100016: Bottom
+    100018: Camera
+    100020: Camera.001
+    100022: Cube.001
+    100024: Ear_L
+    100026: Ear_L_end
+    100028: Ear_L_end_end
+    100030: Ear_R
+    100032: Ear_R_end
+    100034: Ear_R_end_end
+    100036: head
+    100038: head_end
+    100040: head_end_end
+    100042: Lamp
+    100044: Lamp.001
+    100046: leg_L
+    100048: leg_L_end
+    100050: leg_L_end_end
+    100052: leg_R
+    100054: leg_R_end
+    100056: leg_R_end_end
+    100058: Neck
+    100060: //RootNode
+    100062: Tail
+    100064: Tail_end
+    100066: Tail_end_end
+    100068: ULeg_L
+    100070: ULeg_R
+    400000: Arm_L
+    400002: Arm_L_end
+    400004: Arm_L_end_end
+    400006: Arm_R
+    400008: Arm_R_end
+    400010: Arm_R_end_end
+    400012: Armature
+    400014: Body
+    400016: Bottom
+    400018: Camera
+    400020: Camera.001
+    400022: Cube.001
+    400024: Ear_L
+    400026: Ear_L_end
+    400028: Ear_L_end_end
+    400030: Ear_R
+    400032: Ear_R_end
+    400034: Ear_R_end_end
+    400036: head
+    400038: head_end
+    400040: head_end_end
+    400042: Lamp
+    400044: Lamp.001
+    400046: leg_L
+    400048: leg_L_end
+    400050: leg_L_end_end
+    400052: leg_R
+    400054: leg_R_end
+    400056: leg_R_end_end
+    400058: Neck
+    400060: //RootNode
+    400062: Tail
+    400064: Tail_end
+    400066: Tail_end_end
+    400068: ULeg_L
+    400070: ULeg_R
+    2000000: Camera
+    2000002: Camera.001
+    2100000: Material.001
+    2100002: White
+    2100004: Grey
+    4300000: Cube.001
+    7400000: Camera.001|Camera.001|jump.001|jump.001
+    7400002: Camera.001|Camera.001|stand|stand
+    7400004: Camera.001|Lamp.001|jump.001|jump.001
+    7400006: Camera.001|Lamp.001|stand|stand
+    7400008: Lamp.001|Camera.001|jump.001|jump.001
+    7400010: Lamp.001|Camera.001|stand|stand
+    7400012: Lamp.001|Lamp.001|jump.001|jump.001
+    7400014: Lamp.001|Lamp.001|stand|stand
+    7400016: Armature|Armature|Armature|jump.001|Armature|jump.001
+    7400018: Armature|Armature|Armature|jump|Armature|jump
+    7400020: Armature|Armature|Armature|stand|Armature|stand
+    7400022: Armature|Armature|jump.001|jump.001
+    7400024: Armature|Armature|stand|stand
+    7400026: Armature|Camera.001|jump.001|jump.001
+    7400028: Armature|Camera.001|stand|stand
+    7400030: Armature|Lamp.001|jump.001|jump.001
+    7400032: Armature|Lamp.001|stand|stand
+    9500000: //RootNode
+    10800000: Lamp
+    10800002: Lamp.001
+    13700000: Cube.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
